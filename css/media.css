@@ -1,0 +1,891 @@
+
+
+
+@media(min-width:992px) and (max-width:1199px){
+    .navbar
+     {  padding-top: 9px;
+    }
+    #ban-img {
+        margin-top: 26px;
+        margin-bottom: 50px;
+    }
+    .ban-text h1 {
+        font-size: 36px;
+        line-height: 42px;
+        margin: 1px auto;
+    }
+    .ban-text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        margin-bottom: 22px;
+        line-height: 24px;
+        color: #888888;
+        padding: 11px 0;
+    }
+    .ban_sprin1{
+        display: none;
+    }
+    .ban_sprin2{
+        display: none;
+    }
+    .ban-btn{
+        text-align: center;
+    }
+    /* =================================================sky part start==================== */
+    .head {
+        margin-top: 25px;
+    }
+    .ban-btn button {
+        margin-bottom: 27px;
+    }
+    .head h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 19px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+        padding: 0px 43px;
+    }
+    .head p {
+        padding: 0px 60px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 24px;
+        color: #D8D8D8;
+        margin-bottom: 24px;
+    }
+    /* ==================== */
+    /* .spring1 {
+        display: none;
+    }
+    .spring2 {
+        display: none;
+    } */
+    .img_item img{
+        width: 100%;
+    }
+    /* ======================== */
+    .div_item1 {
+       margin-bottom: 24px;
+    }
+    .div_item2 {
+        margin-bottom: 24px;
+    }
+    /* ============================sky part end======================= */
+    /* ==================================written part start=================== */
+    .head2 h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 35px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .one h2 {
+        font-size: 28px;
+        margin-top: 7px;
+    }
+    .written_text p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 48px;
+    }
+    .chart_wrpaer {
+        width: unset;
+        padding: 15px 6px;
+        margin-bottom: 24px;
+    }
+    .chart_text h5 {
+        font-size: 22px;
+        line-height: 18px;
+        margin-bottom: 12px;
+    }
+    .chart_text p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+    .chart_wrpaer:last-child {
+        margin-bottom: 20px;
+      }
+      .head3 h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 40px;
+        margin: 0 auto;
+    }
+    .comment_text h4 {
+        font-size: 24px;
+        line-height: 23px;
+        margin-bottom: 7px;
+    }
+    .comment_text h6 {
+        font-size: 16px;
+        line-height: 22px;
+        color: #C6C6C6;
+    }
+    .comment_item{
+        padding: 0 12px;
+        margin: bottom 10px !important;
+    }
+    .comment_text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        color: #C6C6C6;
+        max-width: 482px;
+        margin-bottom: 15px;
+    }
+    /* ======================================comment css =========================== */
+    .right_text h2 {
+        margin-top: 11px;
+        margin-bottom: 22px;
+        font-size: 37px;
+        line-height: 40px;
+        margin: 20px auto;
+    }
+    .help_colour {
+        text-align: center;
+        padding-left: 8px;
+        padding-top: 22px;
+        padding-right: 11px;
+        padding-bottom: 50px;
+        align-items: center;
+        background: #0C5F79;
+        border-radius: 45px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        -ms-border-radius: 45px;
+        -o-border-radius: 45px;
+    }
+    .left_text p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 17px;
+        text-align: center;
+        margin: 23px auto;
+    }
+    .help_btn button {
+        padding: 16px 19px;
+        font-size: 14px;
+    }
+    /* ================================foot css start======================= */
+    .foot_logo {
+        margin-top: 124px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .foot_text p {
+        text-align: center;
+    }
+    .foot_text2 h4 {
+        margin-top: 136px;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .foot_text2 p {
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .social{
+        text-align: center;
+    }
+    .hed_text h3 {
+        margin-top: 60px;
+        margin-bottom: 26px;
+        text-align: center;
+    }
+    .rec_text{
+        text-align: center;
+    }
+    .Last_text{
+        text-align: center;
+    }
+    .Last_text h6 {
+        margin: 0 auto;
+        margin-bottom: 6px;
+    }
+    .social a {
+        margin-left: 10px;
+    }
+    .Last_text p {
+        margin-top: 22px;
+    }  
+}
+@media(min-width:768px) and (max-width:991px) {
+    .navbar
+     {  padding-top: 9px;
+    }
+    #ban-img {
+        margin-top: 26px;
+        margin-bottom: -78px;
+    }
+    .ban-text h1 {
+        font-size: 36px;
+        line-height: 42px;
+        margin: 1px auto;
+    }
+    .ban-text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        margin-bottom: 22px;
+        line-height: 24px;
+        color: #888888;
+        padding: 11px 50px;
+    }
+    .ban_sprin1{
+        display: none;
+    }
+    .ban_sprin2{
+        display: none;
+    }
+    .ban-btn{
+        text-align: center;
+    }
+    /* =================================================sky part start==================== */
+    #sky-cut {
+        display: none;
+    }
+    .head {
+        margin-top: 25px;
+    }
+    .ban-btn button {
+        margin-bottom: 27px;
+    }
+    .head h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 19px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+        padding: 0px 43px;
+    }
+    .head p {
+        padding: 0px 60px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 24px;
+        color: #D8D8D8;
+        margin-bottom: 24px;
+    }
+    /* ==================== */
+    .spring1 {
+        display: none;
+    }
+    .spring2 {
+        display: none;
+    }
+    .img_item img{
+        width: 100%;
+    }
+    /* ======================== */
+    .div_item1 {
+       margin-bottom: 24px;
+    }
+    .div_item2 {
+        margin-bottom: 24px;
+    }
+    /* ============================sky part end======================= */
+    /* ==================================written part start=================== */
+    .head2 h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 35px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .one h2 {
+        font-size: 33px;
+        margin-top: 6px;
+    }
+    .written_text p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 48px;
+    }
+    .chart_wrpaer {
+        width: unset;
+        padding: 15px 6px;
+        margin-bottom: 24px;
+    }
+    .chart_text h5 {
+        font-size: 22px;
+        line-height: 18px;
+        margin-bottom: 12px;
+    }
+    .chart_text p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+    .chart_wrpaer:last-child {
+        margin-bottom: 20px;
+      }
+      .head3 h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 40px;
+        margin: 0 auto;
+    }
+    .comment_text h4 {
+        font-size: 24px;
+        line-height: 23px;
+        margin-bottom: 7px;
+    }
+    .comment_text h6 {
+        font-size: 16px;
+        line-height: 22px;
+        color: #C6C6C6;
+    }
+    .comment_item{
+        padding: 0 12px;
+        margin: bottom 10px !important;
+    }
+    .comment_text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        color: #C6C6C6;
+        max-width: 482px;
+        margin-bottom: 15px;
+    }
+    /* ======================================comment css =========================== */
+    .right_text h2 {
+        margin-top: 11px;
+        margin-bottom: 22px;
+        font-size: 37px;
+        line-height: 40px;
+        margin: 20px auto;
+    }
+    .help_colour {
+        text-align: center;
+        padding-left: 8px;
+        padding-top: 22px;
+        padding-right: 11px;
+        padding-bottom: 50px;
+        align-items: center;
+        background: #0C5F79;
+        border-radius: 45px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        -ms-border-radius: 45px;
+        -o-border-radius: 45px;
+    }
+    .left_text p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 17px;
+        text-align: center;
+        margin: 23px auto;
+    }
+    .help_btn button {
+        padding: 16px 19px;
+        font-size: 14px;
+    }
+    /* ================================foot css start======================= */
+    .foot_logo {
+        margin-top: 124px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .foot_text p {
+        text-align: center;
+    }
+    .foot_text2 h4 {
+        margin-top: 136px;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .foot_text2 p {
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .social{
+        text-align: center;
+    }
+    .hed_text h3 {
+        margin-top: 60px;
+        margin-bottom: 26px;
+        text-align: center;
+    }
+    .rec_text{
+        text-align: center;
+    }
+    .Last_text{
+        text-align: center;
+    }
+    .Last_text h6 {
+        margin: 0 auto;
+        margin-bottom: 6px;
+    }
+    .social a {
+        margin-left: 10px;
+    }
+    .Last_text p {
+        margin-top: 22px;
+    }  
+    .spring1 {
+        display: none;
+    }
+    
+    .spring2 {
+        display: none;
+    }
+}
+
+@media(min-width:576px) and (max-width:767px) {
+    .navbar {  padding-top: 9px;
+    }
+    #ban-img {
+        margin-top: 26px;
+        margin-bottom: -78px;
+    }
+    .ban-text h1 {
+        font-size: 27px;
+        margin-bottom: 11px;
+        line-height: 30px;
+        padding: 0 67px;
+    }
+    .ban-text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 22px;
+        line-height: 24px;
+        color: #888888;
+        padding: 0px 3px;
+    }
+    .ban_sprin1{
+        display: none;
+    }
+    .ban_sprin2{
+        display: none;
+    }
+    .ban-btn{
+        text-align: center;
+    }
+    /* =================================================sky part start==================== */
+    #sky-cut {
+        display: none;
+    }
+    .head {
+        margin-top: 25px;
+    }
+    .ban-btn button {
+        margin-bottom: 27px;
+    }
+    .head h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 19px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+        padding: 0px 5px;
+    }
+    .head p {
+        padding: 0px 21px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #D8D8D8;
+        margin-bottom: 24px;
+    }
+    /* ==================== */
+    .spring1 {
+        display: none;
+    }
+    .spring2 {
+        display: none;
+    }
+    .img_item img{
+        width: 100%;
+    }
+    /* ======================== */
+    .div_item1 {
+       margin-bottom: 24px;
+    }
+    .div_item2 {
+        margin-bottom: 24px;
+    }
+    /* ============================sky part end======================= */
+    /* ==================================written part start=================== */
+    .head2 h2 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-bottom: 35px;
+        text-transform: capitalize;
+        color: #FFFFFF;
+    }
+    .one h2 {
+        font-size: 31px;
+        margin-top: 12px;
+    }
+    .written_text p {
+        font-size: 15px;
+        line-height: 24px;
+        width: unset;
+        margin-bottom: 35px;
+    }
+    .chart_wrpaer {
+        width: unset;
+        padding: 15px 6px;
+        margin-bottom: 24px;
+    }
+    .chart_text h5 {
+        font-size: 22px;
+        line-height: 18px;
+        margin-bottom: 12px;
+    }
+    .chart_text p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+    .chart_wrpaer:last-child {
+        margin-bottom: 20px;
+      }
+      .head3 h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 36px;
+        margin-bottom: 7px;
+        margin-top: 47px;
+    }
+    .comment_text h4 {
+        font-size: 24px;
+        line-height: 23px;
+        margin-bottom: 7px;
+    }
+    .comment_text h6 {
+        font-size: 16px;
+        line-height: 22px;
+        color: #C6C6C6;
+    }
+    .comment_item{
+        padding: 0 12px;
+        margin: bottom 10px !important;
+    }
+    .comment_text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        color: #C6C6C6;
+        max-width: 482px;
+        margin-bottom: 15px;
+    }
+    /* ======================================comment css =========================== */
+    .right_text h2 {
+        margin-top: 11px;
+        margin-bottom: 22px;
+        font-size: 37px;
+        line-height: 40px;
+    }
+    .help_colour {
+        text-align: center;
+        padding-left: 8px;
+        padding-top: 22px;
+        padding-right: 11px;
+        padding-bottom: 50px;
+        align-items: center;
+        background: #0C5F79;
+        border-radius: 45px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        -ms-border-radius: 45px;
+        -o-border-radius: 45px;
+    }
+    .left_text p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 17px;
+        text-align: center;
+        margin: 23px auto;
+    }
+    .help_btn button {
+        padding: 16px 19px;
+        font-size: 14px;
+    }
+    /* ================================foot css start======================= */
+    .foot_logo {
+        margin-top: 124px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .foot_text p {
+        text-align: center;
+    }
+    .foot_text2 h4 {
+        margin-top: 136px;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .foot_text2 p {
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .social{
+        text-align: center;
+    }
+    .hed_text h3 {
+        margin-top: 60px;
+        margin-bottom: 26px;
+        text-align: center;
+    }
+    .rec_text{
+        text-align: center;
+    }
+    .Last_text{
+        text-align: center;
+    }
+    .Last_text h6 {
+        margin: 0 auto;
+        margin-bottom: 6px;
+    }
+    .social a {
+        margin-left: 10px;
+    }
+    .Last_text p {
+        margin-top: 22px;
+    }  
+    .spring1 {
+        display: none;
+    }
+    
+    .spring2 {
+        display: none;
+    }
+}
+  
+@media (max-width:575.99px) {
+    .navbar {
+        padding-top: 9px;
+    }
+    #ban-img {
+        margin-top: 26px;
+        margin-bottom: -78px;
+    }
+    .ban-text h1 {
+        width: unset;
+        font-size: 23px;
+        margin-bottom: 11px;
+        line-height: 27px;
+        padding: 0 17px;
+    }
+    .ban-text p {
+        width: unset;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 22px;
+        line-height: 24px;
+        color: #888888;
+        padding: 0px 18px;
+    }
+    .ban_sprin1{
+        display: none;
+    }
+    .ban_sprin2{
+        display: none;
+    }
+    /* =================================================sky part start==================== */
+    #sky-cut {
+        display: none;
+    }
+    .head {
+        margin-top: 25px;
+    }
+    .ban-btn button {
+        margin-bottom: 27px;
+    }
+    .head h2 {
+        width: unset;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 28px;
+        margin-bottom: 19px;
+        color: #FFFFFF;
+        text-transform: capitalize;
+    }
+    .head p {
+        padding: 0px 21px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #D8D8D8;
+        margin-bottom: 24px;
+    }
+    /* ==================== */
+    .spring1 {
+        display: none;
+    }
+    .spring2 {
+        display: none;
+    }
+    .img_item img{
+        width: 100%;
+    }
+    /* ======================== */
+    .div_item1 {
+       margin-bottom: 24px;
+    }
+    .div_item2 {
+        margin-bottom: 24px;
+    }
+    /* ============================sky part end======================= */
+    /* ==================================written part start=================== */
+    .head2 h2 {
+        width: unset;
+        font-size: 26px;
+        line-height: 28px;
+        margin-bottom: 35px;
+        color: #FFFFFF;
+    }
+    .one h2 {
+        font-size: 27px;
+        margin-top: 9px;
+    }
+    .written_text p {
+        font-size: 15px;
+        line-height: 24px;
+        width: unset;
+        margin-bottom: 35px;
+    }
+    .chart_wrpaer {
+        width: unset;
+        padding: 15px 6px;
+        margin-bottom: 24px;
+    }
+    .chart_text h5 {
+        font-size: 17px;
+        line-height: 18px;
+        margin-bottom: 7px;
+    }
+    .chart_text p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .chart_wrpaer:last-child {
+        margin-bottom: 20px;
+      }
+      .head3 h2 {
+         width: unset;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 30px;
+        margin-bottom: 7px;
+        margin-top: 47px;
+    }
+    .comment_text h4 {
+        font-size: 24px;
+        line-height: 23px;
+        margin-bottom: 7px;
+    }
+    .comment_text h6 {
+        font-size: 16px;
+        line-height: 22px;
+        color: #C6C6C6;
+    }
+    .comment_item{
+        padding: 0 12px;
+        margin: bottom 10px !important;
+    }
+    .comment_text p {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        color: #C6C6C6;
+        max-width: 482px;
+        margin-bottom: 15px;
+    }
+    /* ======================================comment css =========================== */
+    .right_text h2 {
+        margin-top: 2px;
+        margin-bottom: 18px;
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .help_colour {
+        text-align: center;
+        padding-left: 8px;
+        padding-top: 22px;
+        padding-right: 11px;
+        padding-bottom: 50px;
+        align-items: center;
+        background: #0C5F79;
+        border-radius: 45px;
+        -webkit-border-radius: 45px;
+        -moz-border-radius: 45px;
+        -ms-border-radius: 45px;
+        -o-border-radius: 45px;
+    }
+    .left_text p {
+        font-size: 17px;
+        line-height: 24px;
+        margin-top: 17px;
+        text-align: center;
+    }
+    .help_btn button {
+        padding: 16px 19px;
+        font-size: 14px;
+    }
+    /* ================================foot css start======================= */
+    .foot_logo {
+        margin-top: 124px;
+        margin-bottom: 14px;
+        text-align: center;
+    }
+    .foot_text p {
+        text-align: center;
+    }
+    .foot_text2 h4 {
+        margin-top: 47px;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .foot_text2 p {
+        margin-bottom: 18px;
+        text-align: center;
+    }
+    .social{
+        text-align: center;
+    }
+    .hed_text h3 {
+        margin-top: 51px;
+        margin-bottom: 26px;
+        text-align: center;
+    }
+    .rec_text{
+        text-align: center;
+    }
+    .Last_text{
+        text-align: center;
+    }
+    .Last_text h6 {
+        margin: 0 auto;
+        margin-bottom: 6px;
+    }
+    .spring1 {
+        display: none;
+    }
+    
+    .spring2 {
+        display: none;
+    }
+}
